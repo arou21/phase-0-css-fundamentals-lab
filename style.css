@@ -3,3 +3,36 @@ body {
   height: 100%;
   margin: 0;
 }
+header {text-align: 
+  center;}
+img {
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%; 
+  /*<img src="img_intro-pic.jpg" alt="A beautiful living room> sytle="width:50%;>*/
+}
+a:link {
+  background-color: goldenrod;
+  color: blue;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+  /*navigation links*/
+}
+figcaption {
+  text-align: center;
+  font-size: small;
+  /*image caption*/
+}
+#details div {
+  background-color: crimson;
+  text-align: center;
+  width: 25%;
+  float: left;
+}
+#featured-property p {
+width: 800px;
+text-align: center;
+margin:0 auto;
+}
